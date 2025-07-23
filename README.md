@@ -1,6 +1,11 @@
-# Smart Meeting Assistant
+# 🤖 Smart Meeting Assistant
 
-An AI-powered tool that automates post-meeting workflows by extracting actionable insights from meeting transcripts and audio recordings.
+[![GitHub stars](https://img.shields.io/github/stars/pratikmishra2023/smartMeeting.svg?style=flat-square)](https://github.com/pratikmishra2023/smartMeeting/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/pratikmishra2023/smartMeeting.svg?style=flat-square)](https://github.com/pratikmishra2023/smartMeeting/network)
+[![GitHub issues](https://img.shields.io/github/issues/pratikmishra2023/smartMeeting.svg?style=flat-square)](https://github.com/pratikmishra2023/smartMeeting/issues)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
+
+An AI-powered tool that automates post-meeting workflows by extracting actionable insights from meeting transcripts and audio recordings using **OpenAI GPT-4** and **Whisper AI**.
 
 ## Features
 
