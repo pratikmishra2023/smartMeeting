@@ -1,0 +1,53 @@
+Meeting: Weekly Team Standup
+Date: January 15, 2025
+Participants: Sarah (Project Manager), John (Developer), Alice (Designer), Bob (QA Engineer)
+Duration: 30 minutes
+
+[9:00 AM] Sarah: Good morning everyone! Let's start our weekly standup. John, can you share your updates first?
+
+[9:01 AM] John: Sure! This week I completed the user authentication module. I also fixed the database connection issues we had last week. Currently working on the API integration for the payment system. I expect to have that done by Friday.
+
+[9:02 AM] Sarah: Great progress, John. Any blockers?
+
+[9:02 AM] John: Yes, I need the API documentation from the payment provider. Could someone follow up with them?
+
+[9:03 AM] Sarah: I'll reach out to them today. Alice, your turn.
+
+[9:03 AM] Alice: I finished the new dashboard design mockups. The client approved them yesterday. I'm now working on the mobile responsive version. I should have the initial designs ready by Wednesday for review.
+
+[9:04 AM] Sarah: Excellent! Make sure to include the accessibility guidelines we discussed. Bob, how's testing going?
+
+[9:05 AM] Bob: I completed testing the login functionality - found 3 minor bugs which John already fixed. I'm now testing the user profile section. I discovered one critical issue with password reset that needs immediate attention.
+
+[9:06 AM] John: What's the issue with password reset?
+
+[9:06 AM] Bob: The reset emails aren't being sent. I think it's related to the email service configuration.
+
+[9:07 AM] John: I can look into that this afternoon. Is it blocking anything else?
+
+[9:07 AM] Bob: Not immediately, but we need it fixed before our demo next week.
+
+[9:08 AM] Sarah: Okay, let's make that a priority. Decision: John will fix the password reset issue by Thursday. Alice, can you have the mobile designs ready by Wednesday as planned?
+
+[9:08 AM] Alice: Yes, that timeline works for me.
+
+[9:09 AM] Sarah: Perfect. Action items summary:
+- Sarah: Contact payment provider for API documentation - Due: Today
+- John: Fix password reset email issue - Due: Thursday
+- John: Complete payment API integration - Due: Friday  
+- Alice: Complete mobile responsive designs - Due: Wednesday
+- Bob: Continue testing user profile section - Ongoing
+
+[9:10 AM] Sarah: Any other concerns or blockers?
+
+[9:10 AM] Alice: Just a quick question - should the mobile design include the advanced analytics section?
+
+[9:11 AM] Sarah: Good question. Let's keep it simple for the first version. We can add advanced analytics in the next iteration.
+
+[9:11 AM] Alice: Got it, thanks for clarifying.
+
+[9:12 AM] Sarah: Alright team, let's have a productive week. Next standup is same time next Monday. Thanks everyone!
+
+[9:12 AM] All: Thanks, bye!
+
+Meeting End: 9:12 AM
